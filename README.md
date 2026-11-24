@@ -43,7 +43,7 @@ Minha trajetória em suporte técnico, rotinas administrativas e gestão de fatu
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucas-emanuel-015794115) · [Stack Overflow](https://pt.stackoverflow.com/users/41314/lucasemanuel58) · [Lattes](http://lattes.cnpq.br/3798959283515949) · [Blog](https://bcclucasemanuel.blogspot.com/)
+- [LinkedIn](https://www.linkedin.com/in/lucas-emanuel-753173449) · [Stack Overflow](https://pt.stackoverflow.com/users/187226/lucas-emanuel) · [Lattes](http://lattes.cnpq.br/3798959283515949) · [Blog](https://bcclucasemanuel.blogspot.com/)
 - Ou abra uma `issue` em um dos repositórios — feedback é sempre bem-vindo.
 
 ---
