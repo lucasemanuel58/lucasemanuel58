@@ -28,6 +28,7 @@ Minha trajetória em suporte técnico, rotinas administrativas e gestão de fatu
 | Projeto | O que é | Stack |
 | --- | --- | --- |
 | [Portfólio](https://lucasemanuel58.github.io/) | Este site: uma página estática e responsiva com a minha atuação e projetos | HTML, CSS, GitHub Pages |
+| [Monitor de backups](https://github.com/lucasemanuel58/monitor-backups) | CLI que lê logs simulados, alerta falhas e backups parados e gera histórico por dia — 25 testes e CI | Java, JUnit |
 | [Checklist de onboarding/offboarding](https://github.com/lucasemanuel58/checklist-ti) | CLI que gera checklists de acessos, equipamentos e documentação a partir de perfis fictícios — 14 testes e CI | Java, JUnit |
 | [Jogo da Velha — versão Compose](https://github.com/lucasemanuel58/jogo-da-velha-compose) | Refação moderna do meu primeiro app: lógica pura, minimax, testes e CI. [Baixar APK](https://github.com/lucasemanuel58/jogo-da-velha-compose/releases/tag/v1.0.0) | Kotlin, Compose, JUnit |
 | [Jogo da Velha — versão original](https://github.com/lucasemanuel58/jogoDavelha) | Meu primeiro app (2018), com modo contra o computador | JavaScript, Cordova |
