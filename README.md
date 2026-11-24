@@ -14,7 +14,7 @@ Comecei com JavaScript/HTML e apps empacotados com Cordova em 2018. Hoje prefiro
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [Jogo da Velha — versão Compose](https://github.com/lucasemanuel58/jogo-da-velha-compose) | Refação moderna do meu primeiro app: lógica pura, minimax, testes e CI | Kotlin, Compose, JUnit |
+| [Jogo da Velha — versão Compose](https://github.com/lucasemanuel58/jogo-da-velha-compose) | Refação moderna do meu primeiro app: lógica pura, minimax, testes e CI. [Baixar APK](https://github.com/lucasemanuel58/jogo-da-velha-compose/releases/tag/v1.0.0) | Kotlin, Compose, JUnit |
 | [Jogo da Velha — versão original](https://github.com/lucasemanuel58/jogoDavelha) | Meu primeiro app (2018), com modo contra o computador | JavaScript, Cordova |
 | [Demo jogável da versão original](https://lucasemanuel58.github.io/jogoDavelha/) | Abre no navegador, sem instalar nada | GitHub Pages |
 
